@@ -1,0 +1,4 @@
+com\springboot\covalent\telegram\app\SpringBootCovalentTelegramApplication.class
+com\springboot\covalent\telegram\app\controllers\CovalentRestController.class
+com\springboot\covalent\telegram\app\models\services\ConnectionServiceImpl.class
+com\springboot\covalent\telegram\app\models\services\IConnectionService.class
